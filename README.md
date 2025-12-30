@@ -1,5 +1,4 @@
-## Hi there 👋
-Hii, My Name is NAJIM<br>
+# Hi there 👋 My Name is NAJIM<br>
 
 
 ## 🌐 Socials:
