@@ -1,5 +1,4 @@
-# Hi there 👋 
-My Name is NAJIM<br>
+# Hi there 👋, I'M NAJIM<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/najim-n-tadvi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:najimtadvi09@gmail.com) 
